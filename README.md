@@ -20,3 +20,4 @@ Without it the stack won't proceed.
 ```
 
 More details in this Medium post:
+https://medium.com/@leonti.bielski/deploying-an-spa-on-aws-91a0b35aab31
