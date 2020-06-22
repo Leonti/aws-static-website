@@ -19,5 +19,6 @@ Without it the stack won't proceed.
 ./deploy.sh
 ```
 
-More details in this Medium post:
-https://medium.com/@leonti.bielski/deploying-an-spa-on-aws-91a0b35aab31
+More details in Medium or Dev.to posts:  
+https://medium.com/@leonti.bielski/deploying-an-spa-on-aws-91a0b35aab31  
+https://dev.to/leonti/deploying-an-spa-on-aws-34lf
